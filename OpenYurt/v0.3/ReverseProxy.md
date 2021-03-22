@@ -54,6 +54,6 @@ func (p *yurtReverseProxy) ServeHTTP(rw http.ResponseWriter, req *http.Request) 
 
 ## What's Next
 
-1. [LoadBalancer源码分析](./LoadBalancer源码分析.md)
+1. [LoadBalancer](./LoadBalancer.md)
 
-2. [LocalProxy源码分析](./LocalProxy源码分析.md)
+2. [LocalProxy](./LocalProxy.md)

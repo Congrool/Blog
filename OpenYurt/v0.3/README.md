@@ -2,7 +2,7 @@
 
 YurtHub的主体是YurtHubServer，此外还有GC线程。
 
-从[这里](./YurtHubServer源码分析.md)开始。
+从[这里](./YurtHubServer.md)开始。
 
 
 
